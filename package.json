@@ -1,0 +1,26 @@
+{
+  "name": "lh-types",
+  "version": "1.0.1",
+  "description": "Shared types for LH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilshinde2/lh-types.git"
+  },
+  "keywords": [
+    "LH",
+    "Types"
+  ],
+  "author": "Kapil Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilshinde2/lh-types/issues"
+  },
+  "homepage": "https://github.com/kapilshinde2/lh-types#readme",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
